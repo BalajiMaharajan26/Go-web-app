@@ -1,4 +1,3 @@
-```yaml
 name: CI/CD
 
 # Run the workflow when application-related files are pushed to main.
@@ -139,5 +138,4 @@ jobs:
 
           git commit -m "Update image tag to ${{ github.run_id }}"
           git push
-```
 
