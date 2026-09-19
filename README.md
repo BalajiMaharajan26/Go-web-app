@@ -831,3 +831,6 @@ Cloud Infrastructure
  ↓
 Application
 ```
+
+<img width="1542" height="776" alt="image" src="https://github.com/user-attachments/assets/ca91ff04-332f-43d9-9abc-4fab58023f4c" />
+
